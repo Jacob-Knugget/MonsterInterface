@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\MonsterInterface\bin\Debug\net6.0\MonsterInterface.exe
+C:\Users\jacob\source\repos\MonsterInterface\bin\Debug\net6.0\MonsterInterface.deps.json
+C:\Users\jacob\source\repos\MonsterInterface\bin\Debug\net6.0\MonsterInterface.runtimeconfig.json
+C:\Users\jacob\source\repos\MonsterInterface\bin\Debug\net6.0\MonsterInterface.dll
+C:\Users\jacob\source\repos\MonsterInterface\bin\Debug\net6.0\MonsterInterface.pdb
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\MonsterInterface.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\MonsterInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\MonsterInterface.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\MonsterInterface.AssemblyInfo.cs
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\MonsterInterface.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\MonsterInterface.dll
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\refint\MonsterInterface.dll
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\MonsterInterface.pdb
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\MonsterInterface.genruntimeconfig.cache
+C:\Users\jacob\source\repos\MonsterInterface\obj\Debug\net6.0\ref\MonsterInterface.dll
